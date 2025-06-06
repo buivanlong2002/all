@@ -1,0 +1,204 @@
+body{
+    font-family: Arial, Tahoma;
+    font-size: 12px;
+}
+#main{
+    width: 1000px;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#head{
+    height: 100px;
+    background-color: #F5F5F5;
+    border: 1px solid #CDCDCD;
+    margin-bottom:5px;
+}
+
+#head-link{
+    height: 30px;
+    line-height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #CDCDCD;
+    background-color: #F5F5F5;
+    margin-bottom:5px;
+    clear: both;
+}
+
+#left{
+    width: 150px;
+    min-height: 415px;
+    border: 1px solid #CDCDCD;
+    float:left;
+    background-color: #004C00;
+    margin-bottom: 5px;
+}
+
+#content{
+    width: 600px;
+    min-height: 415px;
+    border: 1px solid #CDCDCD;
+    float:left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#right{
+    width: 234px;
+    min-height: 400px;
+    border: 1px solid #CDCDCD;
+    float:right;
+    margin-bottom: 5px;
+}
+
+#footer{
+    height: 30px;
+    clear: both;
+    border: 1px solid #CDCDCD;
+    background-color: #F8F8FF;
+}
+/* Logo và Banner */
+#logo {
+    float: left;
+    width: 200px;
+    height: 100px;
+    background-color: #CCC;
+    text-align: center;
+    line-height: 100px;
+}
+
+#banner {
+    float: right;
+    width: 790px;
+    height: 100px;
+    background-color: #EEE;
+    text-align: center;
+    line-height: 100px;
+}
+
+/* Menu chính */
+#menu {
+    height: 30px;
+    background-color: #E0E0E0;
+    line-height: 30px;
+    border-bottom: 1px solid #CCC;
+}
+
+#menu a {
+    padding: 0 15px;
+    color: blue;
+    text-decoration: none;
+    border-right: 1px solid #999;
+}
+
+#menu a:last-child {
+    border-right: none;
+}
+
+/* Left Menu (Introduction, News...) */
+#left ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#left ul li {
+    padding: 10px;
+    color: white;
+    border-bottom: 1px solid #ffffff33;
+}
+
+/* Nội dung Content - Hot news và các tin khác */
+.hot-news {
+    width: 100%;
+    height: 100px;
+    background-color: #FCE4D6;
+    margin-bottom: 5px;
+    text-align: center;
+    line-height: 100px;
+}
+
+.news-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.news-item {
+    width: calc(33.333% - 4px);
+    height: 80px;
+    background-color: #DDEEFF;
+    text-align: center;
+    line-height: 80px;
+}
+
+/* Photo Slide */
+#photo-slide {
+    width: 100%;
+    height: 100px;
+    background-color: #FFD;
+    margin-bottom: 5px;
+    text-align: center;
+    line-height: 100px;
+}
+
+/* Calendar */
+#calendar {
+    width: 100%;
+    height: 100px;
+    background-color: #EEE;
+    margin-bottom: 5px;
+    text-align: center;
+    line-height: 100px;
+}
+
+/* Chart */
+#chart {
+    width: 100%;
+    height: 100px;
+    background-color: #CFF;
+    margin-bottom: 5px;
+    text-align: center;
+    line-height: 100px;
+}
+
+/* Map */
+#map {
+    width: 100%;
+    height: 100px;
+    background-color: #DFD;
+    text-align: center;
+    line-height: 100px;
+}
+
+/* Search box */
+#search {
+    float: right;
+    margin-top: -30px;
+    padding-right: 10px;
+}
+
+#search input[type="text"] {
+    padding: 3px;
+    width: 150px;
+    border: 1px solid #ccc;    /* Bo đường viền xung quanh ô input */
+    border-radius: 10px;        /* Bo tròn các góc */
+}
+
+
+/* Footer Link */
+#footer a {
+    float: right;
+    margin: 5px;
+    text-decoration: none;
+    color: blue;
+    padding: 0 15px;
+    border-right: 1px solid #999;
+}
+
+#footer a:first-child {
+    border-right: none;
+}

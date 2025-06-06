@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Design-Web/Practice7/Basic-Layout/Basic-Layout.iml" filepath="$PROJECT_DIR$/Design-Web/Practice7/Basic-Layout/Basic-Layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bootstrap-Basic/Bootstrap-Basic.iml" filepath="$PROJECT_DIR$/Bootstrap-Basic/Bootstrap-Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Web/Practice7/Box-Model/Box-Model.iml" filepath="$PROJECT_DIR$/Design-Web/Practice7/Box-Model/Box-Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSS/CSS.iml" filepath="$PROJECT_DIR$/CSS/CSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codegym-Module-3.iml" filepath="$PROJECT_DIR$/Codegym-Module-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common-Function/Common-Function.iml" filepath="$PROJECT_DIR$/Common-Function/Common-Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common-Function/Practice4/CommonFunctionSQL/CommonFunctionSQL.iml" filepath="$PROJECT_DIR$/Common-Function/Practice4/CommonFunctionSQL/CommonFunctionSQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relational-Database/Practice1/Create-Database/Create-Database.iml" filepath="$PROJECT_DIR$/Relational-Database/Practice1/Create-Database/Create-Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Web/Practice7/Create-Horizontal-Menu/Create-Horizontal-Menu.iml" filepath="$PROJECT_DIR$/Design-Web/Practice7/Create-Horizontal-Menu/Create-Horizontal-Menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Web/Exercise7/Create-Layout-RWD/Create-Layout-RWD.iml" filepath="$PROJECT_DIR$/Design-Web/Exercise7/Create-Layout-RWD/Create-Layout-RWD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relational-Database/Practice1/Create-Table/Create-Table.iml" filepath="$PROJECT_DIR$/Relational-Database/Practice1/Create-Table/Create-Table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Database/Practice2/Create-Table-Database/Create-Table-Database.iml" filepath="$PROJECT_DIR$/Design-Database/Practice2/Create-Table-Database/Create-Table-Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Web/Practice7/Create-Vertical-Menu/Create-Vertical-Menu.iml" filepath="$PROJECT_DIR$/Design-Web/Practice7/Create-Vertical-Menu/Create-Vertical-Menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operation-Database/Practice3/Data-Query/Data-Query.iml" filepath="$PROJECT_DIR$/Operation-Database/Practice3/Data-Query/Data-Query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operation-Database/Exercise3/Data-Query-Student/Data-Query-Student.iml" filepath="$PROJECT_DIR$/Operation-Database/Exercise3/Data-Query-Student/Data-Query-Student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relational-Database/Practice1/Delete-Database/Delete-Database.iml" filepath="$PROJECT_DIR$/Relational-Database/Practice1/Delete-Database/Delete-Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Database/Design-Database.iml" filepath="$PROJECT_DIR$/Design-Database/Design-Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Web/Design-Web.iml" filepath="$PROJECT_DIR$/Design-Web/Design-Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Database/Practice2/ERD/ERD.iml" filepath="$PROJECT_DIR$/Design-Database/Practice2/ERD/ERD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSS/Exercise6/Embed-CSS/Embed-CSS.iml" filepath="$PROJECT_DIR$/CSS/Exercise6/Embed-CSS/Embed-CSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relational-Database/Exercise1/Exercise1.iml" filepath="$PROJECT_DIR$/Relational-Database/Exercise1/Exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Database/Exercise2/Exercise2.iml" filepath="$PROJECT_DIR$/Design-Database/Exercise2/Exercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operation-Database/Exercise3/Exercise3.iml" filepath="$PROJECT_DIR$/Operation-Database/Exercise3/Exercise3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common-Function/Exercise4/Exercise4.iml" filepath="$PROJECT_DIR$/Common-Function/Exercise4/Exercise4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQL-View-Index-Stored-Procedure/Exercise5/Exercise5.iml" filepath="$PROJECT_DIR$/SQL-View-Index-Stored-Procedure/Exercise5/Exercise5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSS/Exercise6/Exercise6.iml" filepath="$PROJECT_DIR$/CSS/Exercise6/Exercise6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Web/Exercise7/Exercise7.iml" filepath="$PROJECT_DIR$/Design-Web/Exercise7/Exercise7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bootstrap-Basic/Exercise8/Exercise8.iml" filepath="$PROJECT_DIR$/Bootstrap-Basic/Exercise8/Exercise8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Web/Exercise7/Facebook-Interface/Facebook-Interface.iml" filepath="$PROJECT_DIR$/Design-Web/Exercise7/Facebook-Interface/Facebook-Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bootstrap-Basic/Practice8/Form-Login-Bootstrap/Form-Login-Bootstrap.iml" filepath="$PROJECT_DIR$/Bootstrap-Basic/Practice8/Form-Login-Bootstrap/Form-Login-Bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common-Function/Exercise4/FunctionSQL/FunctionSQL.iml" filepath="$PROJECT_DIR$/Common-Function/Exercise4/FunctionSQL/FunctionSQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bootstrap-Basic/Exercise8/Gallery-BootStrap/Gallery-BootStrap.iml" filepath="$PROJECT_DIR$/Bootstrap-Basic/Exercise8/Gallery-BootStrap/Gallery-BootStrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Web/Exercise7/HTML5-CSS/HTML5-CSS.iml" filepath="$PROJECT_DIR$/Design-Web/Exercise7/HTML5-CSS/HTML5-CSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQL-View-Index-Stored-Procedure/Practice5/Index-MySQL/Index-MySQL.iml" filepath="$PROJECT_DIR$/SQL-View-Index-Stored-Procedure/Practice5/Index-MySQL/Index-MySQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operation-Database/Practice3/Insert-Into-Database/Insert-Into-Database.iml" filepath="$PROJECT_DIR$/Operation-Database/Practice3/Insert-Into-Database/Insert-Into-Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bootstrap-Basic/Exercise8/Landing-Page/Landing-Page.iml" filepath="$PROJECT_DIR$/Bootstrap-Basic/Exercise8/Landing-Page/Landing-Page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operation-Database/Operation-Database.iml" filepath="$PROJECT_DIR$/Operation-Database/Operation-Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operation-Database/Exercise3/Operation-Database-Sale/Operation-Database-Sale.iml" filepath="$PROJECT_DIR$/Operation-Database/Exercise3/Operation-Database-Sale/Operation-Database-Sale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQL-View-Index-Stored-Procedure/Practice5/Pass-Paramater/Pass-Paramater.iml" filepath="$PROJECT_DIR$/SQL-View-Index-Stored-Procedure/Practice5/Pass-Paramater/Pass-Paramater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSS/Practice6/Practice-CSS/Practice-CSS.iml" filepath="$PROJECT_DIR$/CSS/Practice6/Practice-CSS/Practice-CSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relational-Database/Practice1/Practice1.iml" filepath="$PROJECT_DIR$/Relational-Database/Practice1/Practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Database/Practice2/Practice2.iml" filepath="$PROJECT_DIR$/Design-Database/Practice2/Practice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operation-Database/Practice3/Practice3.iml" filepath="$PROJECT_DIR$/Operation-Database/Practice3/Practice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common-Function/Practice4/Practice4.iml" filepath="$PROJECT_DIR$/Common-Function/Practice4/Practice4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQL-View-Index-Stored-Procedure/Practice5/Practice5.iml" filepath="$PROJECT_DIR$/SQL-View-Index-Stored-Procedure/Practice5/Practice5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSS/Practice6/Practice6.iml" filepath="$PROJECT_DIR$/CSS/Practice6/Practice6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Web/Practice7/Practice7.iml" filepath="$PROJECT_DIR$/Design-Web/Practice7/Practice7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bootstrap-Basic/Practice8/Practice8.iml" filepath="$PROJECT_DIR$/Bootstrap-Basic/Practice8/Practice8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Database/Exercise2/QuanLyBanHang/QuanLyBanHang.iml" filepath="$PROJECT_DIR$/Design-Database/Exercise2/QuanLyBanHang/QuanLyBanHang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Database/Practice2/QuanLySinhVien/QuanLySinhVien.iml" filepath="$PROJECT_DIR$/Design-Database/Practice2/QuanLySinhVien/QuanLySinhVien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Database/Exercise2/QuanLyVatTu/QuanLyVatTu.iml" filepath="$PROJECT_DIR$/Design-Database/Exercise2/QuanLyVatTu/QuanLyVatTu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relational-Database/Relational-Database.iml" filepath="$PROJECT_DIR$/Relational-Database/Relational-Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQL-View-Index-Stored-Procedure/SQL-View-Index-Stored-Procedure.iml" filepath="$PROJECT_DIR$/SQL-View-Index-Stored-Procedure/SQL-View-Index-Stored-Procedure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQL-View-Index-Stored-Procedure/Practice5/Store-Procedure/Store-Procedure.iml" filepath="$PROJECT_DIR$/SQL-View-Index-Stored-Procedure/Practice5/Store-Procedure/Store-Procedure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSS/Exercise6/Story-Reading-Page/Story-Reading-Page.iml" filepath="$PROJECT_DIR$/CSS/Exercise6/Story-Reading-Page/Story-Reading-Page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relational-Database/Exercise1/Student-Database/Student-Database.iml" filepath="$PROJECT_DIR$/Relational-Database/Exercise1/Student-Database/Student-Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSS/Exercise6/Text-Formatting/Text-Formatting.iml" filepath="$PROJECT_DIR$/CSS/Exercise6/Text-Formatting/Text-Formatting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQL-View-Index-Stored-Procedure/Practice5/Trigger-MySQL/Trigger-MySQL.iml" filepath="$PROJECT_DIR$/SQL-View-Index-Stored-Procedure/Practice5/Trigger-MySQL/Trigger-MySQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQL-View-Index-Stored-Procedure/Exercise5/View-Index-Store-Procedure/View-Index-Store-Procedure.iml" filepath="$PROJECT_DIR$/SQL-View-Index-Stored-Procedure/Exercise5/View-Index-Store-Procedure/View-Index-Store-Procedure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQL-View-Index-Stored-Procedure/Practice5/View-MySQL/View-MySQL.iml" filepath="$PROJECT_DIR$/SQL-View-Index-Stored-Procedure/Practice5/View-MySQL/View-MySQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Web/Exercise7/Web-To-Watch-Cartoon/Web-To-Watch-Cartoon.iml" filepath="$PROJECT_DIR$/Design-Web/Exercise7/Web-To-Watch-Cartoon/Web-To-Watch-Cartoon.iml" />
+    </modules>
+  </component>
+</project>

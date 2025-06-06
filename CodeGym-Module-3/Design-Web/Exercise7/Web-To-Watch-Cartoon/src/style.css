@@ -1,0 +1,119 @@
+.header {
+    background: #f2f2f2;
+    padding: 12px 24px;
+    border-bottom: 1px solid #ccc;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 40px;
+}
+
+.site-title {
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 12px;
+    color: #333;
+}
+
+.nav {
+    padding: 10px;
+    text-align: center;
+    background: #fff;
+    border-bottom: 1px solid #ccc;
+}
+
+.nav a {
+    color: #333;
+    text-decoration: none;
+    margin: 0 8px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.nav a:hover {
+    color: red;
+}
+
+.content {
+    display: flex;
+    align-items: flex-start;
+    gap: 24px;
+    padding: 24px;
+}
+
+.left-content {
+    width: 28%;
+}
+
+.right-content {
+    width: 72%;
+}
+
+.image-thumb {
+    margin-bottom: 24px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 12px;
+}
+
+.image-thumb img {
+    width: 80%;
+    display: block;
+    max-height: 250px;
+}
+
+.image-thumb p {
+    margin-top: 6px;
+    font-size: 18px;
+}
+
+.main-video {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 16px;
+}
+
+.desc {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.footer {
+    background: #eee;
+    text-align: center;
+    padding: 12px 0;
+    border-top: 1px solid #ccc;
+    margin-top: 32px;
+}
+
+.movie-title {
+    font-size: 20px;     /* tăng kích thước chữ */
+    font-weight: bold;   /* in đậm */
+    margin-bottom: 6px;
+    color: #222;
+}
+
+
+@media (max-width: 768px) {
+    .content {
+        flex-direction: column;
+    }
+
+    .left-content,
+    .right-content {
+        width: 100%;
+    }
+
+    .logo {
+        height: 32px;
+    }
+
+    .site-title {
+        font-size: 30px;
+    }
+}

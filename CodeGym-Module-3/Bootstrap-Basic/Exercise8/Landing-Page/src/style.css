@@ -1,0 +1,48 @@
+/* Reset mặc định */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Hero Section */
+.hero {
+    background-image: url('image/hero.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 1.25rem;
+}
+
+/* Sản phẩm */
+.products .col-md-4 {
+    transition: transform 0.3s ease;
+}
+
+.products .col-md-4:hover {
+    transform: scale(1.05);
+}
+
+.products img {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.products h5 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.products p {
+    font-size: 1rem;
+    color: #555;
+}

@@ -1,0 +1,74 @@
+- Các thực thể trong mô hình ERD là VATTU, PHIEUNHAP, PHIEUXUAT, DONDH, NHACC
+- Mối quan hệ 1-n: NHACC - DONDH
+- Mối quan hệ n-n: VATTU - PHIEUXUAT, VATTU - PHIEUNHAP, VATTU - DONDH
+- Thuộc tính đa trị: SĐT của NHACC  --> NHACC_SĐT(MANCC,SĐT)
+
+- Các bảng: 
+
+create database quanlyvattu;
+use quanlyvattu;
+
+create table NHACC (
+    MaNCC varchar(10) primary key,
+    TenNCC varchar(100),
+    DiaChi varchar(200),
+    SDT varchar(20)
+);
+
+create table VATTU (
+    MaVTU varchar(10) primary key,
+    TenVTU varchar(100)
+);
+
+create table CUNG_CAP (
+    MaNCC varchar(10),
+    MaVTU varchar(10),
+    primary key (MaNCC, MaVTU),
+    foreign key (MaNCC) references NHACC(MaNCC),
+    foreign key (MaVTU) references VATTU(MaVTU)
+);
+
+create table PHIEUXUAT (
+    SoPX varchar(10) primary key,
+    NgayXuat date
+);
+
+create table PHIEUNHAP (
+    SoPN varchar(10) primary key,
+    NgayNhap date
+);
+
+create table CT_PHIEUXUAT (
+    SoPX varchar(10),
+    MaVTU varchar(10),
+    DGXuat decimal(10,2),
+    SLXuat int,
+    primary key (SoPX, MaVTU),
+    foreign key (SoPX) references PHIEUXUAT(SoPX),
+    foreign key (MaVTU) references VATTU(MaVTU)
+);
+
+create table CT_PHIEUNHAP (
+    SoPN varchar(10),
+    MaVTU varchar(10),
+    DGNhap decimal(10,2),
+    SLNhap int,
+    primary key (SoPN, MaVTU),
+    foreign key (SoPN) references PHIEUNHAP(SoPN),
+    foreign key (MaVTU) references VATTU(MaVTU)
+);
+
+create table DONDH (
+    SoDH varchar(10) primary key,
+    NgayDH date,
+    MaNCC varchar(10),
+    foreign key (MaNCC) references NHACC(MaNCC)
+);
+
+create table CT_DONDH (
+    SoDH varchar(10),
+    MaVTU varchar(10),
+    primary key (SoDH, MaVTU),
+    foreign key (SoDH) references DONDH(SoDH),
+    foreign key (MaVTU) references VATTU(MaVTU)
+);
